@@ -1,5 +1,5 @@
-   👋 Hi, I’m a commited learner,
-   ✨ Interested in software development
+   👋 Hi, I’m Elsie,
+   ✨ A software developer.
   
 <!---
 elsie234/elsie234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
